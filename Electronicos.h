@@ -5,6 +5,7 @@
 #ifndef CLASE28_26_ELECTRONICOS_H
 #define CLASE28_26_ELECTRONICOS_H
 #include "NoPerecedero.h"
+#include "ClienteFrecuente.h"
 
 
 class Electronicos : public NoPerecedero{
