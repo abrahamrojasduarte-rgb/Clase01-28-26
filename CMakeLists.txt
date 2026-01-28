@@ -21,4 +21,8 @@ add_executable(clase28_26 main.cpp
         Caja.cpp
         Caja.h
         Factura.cpp
-        Factura.h)
+        Factura.h
+        Habitacion.cpp
+        Habitacion.h
+        Casa.cpp
+        Casa.h)
