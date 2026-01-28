@@ -14,7 +14,7 @@ string Habitacion::getNombre(){
 
 Habitacion::Habitacion(){
     area = 0.0;
-    nombre = "";
+    nombre = " ";
 }
 
 Habitacion::Habitacion(string nombre, double area){

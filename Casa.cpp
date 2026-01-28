@@ -18,7 +18,7 @@ Casa::Casa(string direccion, int c ){
     cantidad++;
 }
 
-void Casa::agregarHabitaciones(string n, double a,Habitacion* habitacion){
+void Casa::agregarHabitaciones(string m, double a,Habitacion* habitacion){
     this->habitaciones[cantidad] = habitacion;
     if (cantidad < 3){
         habitaciones[cantidad] = habitacion;

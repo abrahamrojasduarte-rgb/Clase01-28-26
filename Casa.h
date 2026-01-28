@@ -16,7 +16,7 @@ private:
 public:
     Casa();
     Casa(string direccion, int c);
-    void agregarHabitaciones(string m, double a, Habitacion* habitacion);
+    void agregarHabitaciones(string mm, double a, Habitacion* habitacion);
 };
 
 

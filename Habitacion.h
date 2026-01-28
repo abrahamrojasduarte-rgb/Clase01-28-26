@@ -13,7 +13,7 @@ private:
     double area;
     public:
     Habitacion();
-    Habitacion(string nombre, double area);
+    Habitacion(string n, double area);
     string getNombre();
     double getArea();
 };
