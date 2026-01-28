@@ -1,0 +1,14 @@
+//
+// Created by ESCINF on 28/01/2026.
+//
+
+#ifndef CLASE28_26_CLIENTEFRECUENTE_H
+#define CLASE28_26_CLIENTEFRECUENTE_H
+
+
+class ClienteFrecuente
+{
+};
+
+
+#endif //CLASE28_26_CLIENTEFRECUENTE_H
